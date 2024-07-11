@@ -1,9 +1,14 @@
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+    <nav
+      className="navbar navbar-expand-lg bg-body-tertiary"
+      data-bs-theme="dark"
+    >
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          <span className="badge bg-light text-dark fs-4">Modern News Digest</span>
+          <span className="badge bg-light text-dark fs-4">
+            Modern News Digest
+          </span>
         </a>
         <button
           className="navbar-toggler"
@@ -19,24 +24,17 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">
-                Home
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                Features
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                Pricing
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link disabled" aria-disabled="true">
-                Disabled
-              </a>
+              <div className="nav-link">Technology</div>
+            </li><li className="nav-item">
+              <div className="nav-link">Business</div>
+            </li><li className="nav-item">
+              <div className="nav-link">Health</div>
+            </li><li className="nav-item">
+              <div className="nav-link">Science</div>
+            </li><li className="nav-item">
+              <div className="nav-link">Sports</div>
+            </li><li className="nav-item">
+              <div className="nav-link">Entertainment</div>
             </li>
           </ul>
         </div>
