@@ -7,11 +7,11 @@ const Footer = () => {
           reserved.
         </p>
         <p>
-          <a href="/privacy" className="text-blue-400 hover:underline">
+          <a href="/" className="text-blue-400 hover:underline">
             Privacy Policy
           </a>{" "}
           |
-          <a href="/terms" className="text-blue-400 hover:underline ml-2">
+          <a href="/" className="text-blue-400 hover:underline ml-2">
             Terms of Service
           </a>
         </p>
