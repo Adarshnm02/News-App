@@ -34,7 +34,7 @@ Built with **React**, **Tailwind CSS**, and **News API**, it offers a seamless e
 
 | Home Page | News Details |
 |-----------|-------------|
-| ![Home Page](News-Digest-Modal.png) | ![News Details](News-Digest-Home-Page.png) |
+| ![Home Page](News-Digest-Home-Page.png) | ![News Details](News-Digest-Modal.png) |
 
 ---
 
