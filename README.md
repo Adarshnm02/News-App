@@ -56,12 +56,4 @@ Built with **React**, **Tailwind CSS**, and **News API**, it offers a seamless e
 ✔ News images and category information  
 ✔ Interactive news views  
 
----
-
-## 🌍 Project Links
-
-🔗 [Modern News Digest GitHub Repository](https://github.com/Adarshnm02/News-App)
-
----
-
-## ❤️ Made with love by [Your Name](https://github.com/your-github-username)  
+--- 
